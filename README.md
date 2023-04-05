@@ -1,1 +1,1 @@
-reactJS 클론코딩 연습입니다.
+reactJS clone coding
